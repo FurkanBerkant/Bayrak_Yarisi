@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CudaRuntime1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cu
+C:\Users\BerkantKubat\source\repos\CudaRuntime1\CudaRuntime1\main.cu(53,14): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\BerkantKubat\source\repos\CudaRuntime1\CudaRuntime1\main.cu(54,18): error C2059: syntax error: '<'
+C:\Users\BerkantKubat\source\repos\CudaRuntime1\CudaRuntime1\main.cu(61,26): error C2059: syntax error: '<'
